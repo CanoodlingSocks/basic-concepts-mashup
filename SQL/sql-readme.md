@@ -23,6 +23,7 @@ SQL (Structured Query Language) is a programming language used to manage relatio
 
 >SELECT COUNT(*) FROM mytable;.
 <br>
+
 ---
 
 ## Test Questions
