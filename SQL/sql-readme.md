@@ -26,11 +26,3 @@ SQL (Structured Query Language) is a programming language used to manage relatio
 
 ---
 
-## Test Questions
-* What is SQL used for?
-* What are tables in SQL?
-* Write a basic SQL query that retrieves all columns and rows from a table named mytable.
-* How do you filter data in a SQL query?
-* What is a join in SQL? Give an example.
-* What are aggregate functions in SQL? Give an example.
-* What is a primary key in SQL?
