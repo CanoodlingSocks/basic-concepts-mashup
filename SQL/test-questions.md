@@ -4,18 +4,16 @@ __SQL = Structured Query Language__ <br>
 Database language used for creating databases, deleting, fetching and modify rows and tables. Can also be used when handling relationships between different entities and variables. 
 
 * What is SQL used for? <br>
-It's used for maintaining relational data and data structures within a database such as:
-<ol>
+It's used for maintaining relational data and data structures within a database such as: <br>
 - Executing queries <br>
 - Retrieve data <br>
 - Insert records <br>
 - Update records <br>
 - Delete records <br>
 - Create new databases <br>
-- Create new tables <br>
+- Create new tables [^1] <br>
 - Create views  <br>
 - To perform complex operations on the database <br> 
-</ol>
 
 [^1]:  A view is a virtual table that is based on the result set of a SELECT statement. Essentially, a view is a saved SELECT statement that can be treated as a table.
 
@@ -53,6 +51,7 @@ A primary key must be:
 - Cannot be null. <br>
 - Can't be changed or updated once it's set. <br>
 </ol>
+
 * What is a foreign key in SQL? <br>
 A foreign key is a column or set of columns in a table that refers to the primary key of another table. It works as a link between two tables and defines a parent-child relationship between them. The foreign key constraint ensures that the data in the child table corresponds to the data in the parent table and it helps maintain data integrity between the related tables. <br> <br>
 For example, if you have two tables, Customer and Orders, you could use a foreign key in the Orders table that references the primary key in the Customers table. This would allow you to link each order to the customer who placed the order.
