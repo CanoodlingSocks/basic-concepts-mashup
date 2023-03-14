@@ -7,7 +7,7 @@ Database language used for creating databases, deleting, fetching and modify row
 It's used for maintaining relational data and data structures within a database such as: <br> <br>
 Executing queries <br>
 Retrieve data <br> 
-nsert records <br>
+Insert records <br>
 Update records <br>
 Delete records <br>
 Create new databases <br>
