@@ -1,5 +1,7 @@
 # SQL Files
 This folder contains a collection of .sql files that demonstrate basic SQL queries and concepts.
+<br>
+The Queries-folder contains .sql files that should be able to be inputted in a SQL Database program such as MySQL and Microsoft SQL Server Manager (only tested the latter)
 
 ## SQL Basics
 SQL (Structured Query Language) is a programming language used to manage relational databases. Here are some basic SQL concepts that you should be familiar with:

@@ -1,3 +1,4 @@
+USE EmployeeDBTest;
 -- Add some employees and managers (OBS! The Department_id column needs to be added after updating Table Departments and then you can populate the new column with Data)
 INSERT INTO Employees (Employee_id, First_name, Last_name, Job_title, Manager_id)
 VALUES
