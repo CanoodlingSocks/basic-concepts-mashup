@@ -4,7 +4,7 @@ __SQL = Structured Query Language__ <br>
 Database language used for creating databases, deleting, fetching and modify rows and tables. Can also be used when handling relationships between different entities and variables. 
 
 * What is SQL used for? <br>
-It's used for maintaining relational data and data structures within a database such as: <br>
+It's used for maintaining relational data and data structures within a database such as: <br> <br>
 Executing queries <br>
 Retrieve data <br> 
 nsert records <br>
