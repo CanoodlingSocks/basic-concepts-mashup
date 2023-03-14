@@ -13,9 +13,10 @@ It's used for maintaining relational data and data structures within a database 
 - Delete records <br>
 - Create new databases <br>
 - Create new tables <br>
-- Create views [^1]  <br>
+- Create views  <br>
 - To perform complex operations on the database <br> 
 </ol>
+
 [^1]:  A view is a virtual table that is based on the result set of a SELECT statement. Essentially, a view is a saved SELECT statement that can be treated as a table.
 
 * What are tables in SQL? <br>
