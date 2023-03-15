@@ -8,8 +8,8 @@ VALUES
   (4, 'Hassan', 'Rooyen', 'Backend Engineer', 2),
   (5, 'Amelia', 'Park', '.Net Developer', NULL),
   (6, 'Aiden', 'Visser', 'HTML/CSS Developer', NULL),
-  (7, 'James', 'Collins', 'Database Developer' 3),
-  (8, 'Charlotte', 'Hernandez', 'PHP Developer' NULL),
+  (7, 'James', 'Collins', 'Database Developer', 3),
+  (8, 'Charlotte', 'Hernandez', 'PHP Developer', NULL),
   (9, 'Alejandro', 'Ortiz', 'UI-Designer', 4),
   (10, 'Lars', 'Nielsen', 'Frontend Developer', NULL);
 
@@ -44,19 +44,19 @@ VALUES
   (1, 'Frontend Development', 4),
   (2, 'Backend Development', 2),
   (3, 'Full Stack Development', 1),
-  (4, 'Quality Assurance', 3),
+  (4, 'Quality Assurance', 3);
 
 -- Add new column in Employees
 
-ALTER TABLE Employees 
-ADD Department_id INT;
+-- ALTER TABLE Employees 
+-- ADD Department_id INT;
 
 -- Add Department Id values 1-4 to employees
 
 -- FRONTEND
 UPDATE Employees
 SET Department_id = 1
-WHERE Employee_id IN (1, 2, 3, 10);
+WHERE Employee_id IN (1, 8, 3, 9);
 
 -- BACKEND
 UPDATE Employees
@@ -66,10 +66,10 @@ WHERE Employee_id IN (4, 5);
 -- FULLSTACK
 UPDATE Employees
 SET Department_id = 3
-WHERE Employee_id IN (6, 7);
+WHERE Employee_id IN (6, 2);
 
 -- QUALITY 
 UPDATE Employees
 SET Department_id = 4
-WHERE Employee_id IN (8, 9);
+WHERE Employee_id IN (7, 10);
 
