@@ -2,11 +2,13 @@ USE EmployeeDBTest;
 
 -- 1. Write a query that joins the Departments table with the Employees table and outputs a table with: Department Id, Department Name and First + Lastname of the Manager of that Department
 
-SELECT d.Department_id, d.Department_name, CONCAT(m.First_name, ' ', m.Last_name) AS Manager
+SELECT d.Department_id, d.Department_name, CONCAT(e.First_name, ' ', e.Last_name) AS Manager_name
 FROM Departments d
-INNER JOIN Employees m ON d.Manager_id = m.Employee_id
+INNER JOIN Managers m ON d.Manager_id = m.Manager_id
+INNER JOIN Employees e ON m.Employee_id = e.Employee_id
+ORDER BY d.Department_id;
 
--- The Departments table get joined with the Employees table on the Manager_id column and then gets joined with the Employees table again to get the manager's first and last name by using the 'CONCAT' function to concatenate the first and last name columns inta a single string.
+-- The Departments table get joined with the Managers table on the Manager_id column and then gets joined with the Employees table on m.Employee_id to get the manager's first and last name and by using the 'CONCAT' function, we can concatenate the first and last name columns into a single string.
 
 -- 2. Write a query that displays all employee names (both first and lastname) and their phonenumbers
 
