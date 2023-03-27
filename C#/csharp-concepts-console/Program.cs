@@ -45,7 +45,7 @@ class MyClass
         set
         {
             myInt = value;
-            Console.WriteLine("\nSetting the value of MyInt to " + value + "\n");
+            Console.WriteLine("\nSetting the value of MyInt to " + value);
         }
     }
 
@@ -53,15 +53,15 @@ class MyClass
     {
         if (MyInt == input)
         {
-            Console.WriteLine("\nInput parameter matches instance field");
+            Console.WriteLine("\nInput parameter matches instance field\n");
         }
         else if (MyInt == -1)
         {
-            Console.WriteLine("\nInstance field is -1");
+            Console.WriteLine("\nInstance field is -1\n");
         }
         else
         {
-            Console.WriteLine("\nNo match");
+            Console.WriteLine("\nNo match\n");
         }
     }
 }
