@@ -1,0 +1,15 @@
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\bin\Debug\net7.0\csharp-concepts-console.exe
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\bin\Debug\net7.0\csharp-concepts-console.deps.json
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\bin\Debug\net7.0\csharp-concepts-console.runtimeconfig.json
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\bin\Debug\net7.0\csharp-concepts-console.dll
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\bin\Debug\net7.0\csharp-concepts-console.pdb
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\obj\Debug\net7.0\csharp-concepts-console.csproj.AssemblyReference.cache
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\obj\Debug\net7.0\csharp-concepts-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\obj\Debug\net7.0\csharp-concepts-console.AssemblyInfoInputs.cache
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\obj\Debug\net7.0\csharp-concepts-console.AssemblyInfo.cs
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\obj\Debug\net7.0\csharp-concepts-console.csproj.CoreCompileInputs.cache
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\obj\Debug\net7.0\csharp-concepts-console.dll
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\obj\Debug\net7.0\refint\csharp-concepts-console.dll
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\obj\Debug\net7.0\csharp-concepts-console.pdb
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\obj\Debug\net7.0\csharp-concepts-console.genruntimeconfig.cache
+C:\Users\danie\Pictures\DesktopFolders\Project\MyOwnProjects\test-yo-skillz\C#\csharp-concepts-console\obj\Debug\net7.0\ref\csharp-concepts-console.dll
